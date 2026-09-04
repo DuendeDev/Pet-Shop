@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    background-color: #f2f2f2;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    background-color: #af4c4c;
+    padding: 15px;
+}
+
+th a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+th a:hover {
+    background-color: #7d2e2e;
+}
+
+th span {
+    color: white;
+    margin: 0 5px;
+}
+
+.conteudo {
+    padding: 20px;
+}
+
+.conteudo h3 {
+    color: #af4c4c;
+}
+
+.foto-pet {
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.conteudo p {
+    line-height: 1.6;
+}
